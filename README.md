@@ -75,15 +75,13 @@ To secure a challenging position as a Web Developer where I can apply my technic
 
 | Role | Company | Duration |
 |------|---------|----------|
-| **Intern - Web Developer** | Miso | Dec 2024 – March 2025 |
+| **FULL TIME - Web Developer** | CMP Techsseract LLP | March 2025 - Present|
+| **FULL TIME - Web Developer** | Miso | OCT 2024 – March 2025 |
 | *Developed and maintained responsive web pages using React.js, HTML, CSS, JavaScript. Supported backend integration with PHP and MySQL.* |
-| **Intern - Web Developer** | Cognifyz Technology | Apr 2024 – Jun 2024 |
+| **Intern - Web Developer** | Cognifyz Technology | Apr 2024 – Sep 2024 |
 | *Designed and implemented UI features using Bootstrap and JS. Collaborated on WordPress deployments.* |
-| **Intern - Web Developer** | Softpro India | Sep 2023 – Dec 2023 |
+| **Intern - Web Developer** | Softpro India | Sep 2023 – March 2024 |
 | *Developed and tested modules for internal web applications. Completed 2-month professional training.* |
-| **Web Development Intern** | Bharat Intern | Jul 2023 – Aug 2023 |
-| *Created interactive frontend layouts and contributed to backend scripting.* |
-
 ---
 
 ## 🚀 Projects
