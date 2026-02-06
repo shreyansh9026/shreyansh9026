@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer | Frontend & Backend Specialist</h3>
 
 <p align="center">
-  <i>"Creating bugs since 2020, fixing them since 2021"</i>
+  <i>"Creating bugs since 2023, fixing them since 2024"</i>
 </p>
 
 <p align="center">
