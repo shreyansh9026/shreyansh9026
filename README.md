@@ -116,7 +116,4 @@ To secure a challenging position as a Web Developer where I can apply my technic
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyansh9026&show_icons=true&theme=radical" alt="Shreyansh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh9026&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
