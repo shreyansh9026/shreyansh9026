@@ -21,7 +21,7 @@
 To secure a challenging position as a Web Developer where I can apply my technical expertise in front-end and back-end development to build responsive, user-friendly, and efficient web solutions. I aim to contribute to organizational growth through innovative problem-solving, continuous learning, and the implementation of modern web technologies.
 
 *   📍 **Location**: Deoria, Uttar Pradesh ,India
-*   🎓 **Education**: Purchasing BCA at IGNOU (2025-2028), Diploma in CSE (2024)
+*   🎓 **Education**: Pursuing BCA at IGNOU (2025-2028), Diploma in CSE (2024)
 *   ⚡ **Fun fact**: Gold Medalist in Shot Put (College Sports Fest)
 
 ---
