@@ -75,7 +75,7 @@ To secure a challenging position as a Web Developer where I can apply my technic
 
 | Role | Company | Duration |
 |------|---------|----------|
-| **FULL TIME - Web Developer** | CMP Techsseract LLP | March 2025 - Present|
+| **FULL TIME - Web Developer** | CMP Techsseract LLP | March 2025 - Feb 2026|
 | *Developed and maintained responsive web pages using React.js, HTML, CSS, JavaScript. Supported backend integration with Python.* |
 | **FULL TIME - Web Developer** | Miso | OCT 2024 – March 2025 |
 | *Developed and maintained responsive web pages using React.js, HTML, CSS, JavaScript. Supported backend integration with PHP and MySQL.* |
